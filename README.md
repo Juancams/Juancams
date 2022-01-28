@@ -1,7 +1,7 @@
 #### Proyectos
-* Integrante asociación Robotech
-* Organizador 1º Edición Robotics Day
-* SciRoc 2019 junto al equipo GentleBots
+* Integrante asociación [Robotech](https://github.com/RoboTech-URJC)
+* Organizador 1º Edición [Robotics Day](https://www.urjc.es/todas-las-noticias-de-actualidad/6686-robotics-day-un-dia-para-celebrar-el-presente-pasado-y-futuro-de-la-robotica)
+* SciRoc 2019 junto al equipo [GentleBots](https://gsyc.urjc.es/~dvargas/gentlebots/)
 
 #### Skills
  **Nivel** | **Lenguajes** 
