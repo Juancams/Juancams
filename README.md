@@ -1,22 +1,15 @@
-#### Biografia
-Estudiante de Ingeniería Robótica Software en la Universidad Rey Juan Carlos de Fuenlabrada.
-
 #### Proyectos
 * Integrante asociación Robotech
 * Organizador 1º Edición Robotics Day
 * SciRoc 2019 junto al equipo GentleBots
 
 #### Skills
- **Lenguaje** | **Nivel** 
+ **Nivel** | **Lenguajes** 
 :--------:|:--------:
-C++ | Alto
-Python | Alto
-ROS | Medio/Alto
-ROS 2 | Medio
-C | Medio
-Matlab | Medio
-Java | Bajo
-Kotlin | Bajo
+Alto | C++, Python
+Medio/Alto | ROS, ROS2
+Medio | Matlab, C
+Bajo | Java, Kotlin
 
 [![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/twitter.png)](https://twitter.com/Juancams98)
 [![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/linkdn.png)](https://www.linkedin.com/in/juancams/)
