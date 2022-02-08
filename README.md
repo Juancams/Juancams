@@ -1,13 +1,13 @@
 <p align="left"> <a href="https://twitter.com/juancams98" target="blank"><img src="https://img.shields.io/twitter/follow/juancams98?logo=twitter&style=for-the-badge" alt="juancams98" /></a> </p>
  
-#### Proyectos
-* [Integrante asociación Robotech](https://github.com/RoboTech-URJC)
-* [Organizador 1º Edición Robotics Day](https://www.urjc.es/todas-las-noticias-de-actualidad/6686-robotics-day-un-dia-para-celebrar-el-presente-pasado-y-futuro-de-la-robotica)
-* [SciRoc 2019 junto al equipo GentleBots](https://gsyc.urjc.es/~dvargas/gentlebots/)
+#### Projects
+* [Robotech association member](https://github.com/RoboTech-URJC)
+* [Organizer 1st Edition Robotics Day](https://www.urjc.es/todas-las-noticias-de-actualidad/6686-robotics-day-un-dia-para-celebrar-el-presente-pasado-y-futuro-de-la-robotica)
+* [SciRoc 2019 with the GentleBots team](https://gsyc.urjc.es/~dvargas/gentlebots/)
 
  
 #### Skills
- **Nivel** | **Lenguajes** 
+ **Level** | **Languajes** 
 :--------:|:--------:
 Alto | <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 Medio/Alto | [ROS](https://ros.org)  [ROS2](https://docs.ros.org/en/foxy/index.html)
@@ -15,7 +15,7 @@ Medio | <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
 Bajo | <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>  </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </p>
 
-[![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/twitter.png)](https://twitter.com/Juancams98)
-[![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/linkdn.png)](https://www.linkedin.com/in/juancams/)
-[![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/youtube.png)](https://www.youtube.com/channel/UCHaEDC482IjA6KO6RxA7qhg/featured)
-[![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/web.png)](https://juancams.github.io)
+<a href="https://twitter.com/Juancams98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juancams98" height="60" width="60" /></a> 
+<a href="https://linkedin.com/in/juancams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juancams" height="60" width="60" /></a>
+<a href="https://www.youtube.com/channel/UCHaEDC482IjA6KO6RxA7qhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCHaEDC482IjA6KO6RxA7qhg" height="60" width="60" /></a>
+<a href="https://instagram.com/juancams98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juancams98" height="60" width="60" /></a>
