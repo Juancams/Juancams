@@ -1,9 +1,14 @@
-<p align="left"> <a href="https://twitter.com/juancams98" target="blank"><img src="https://img.shields.io/twitter/follow/juancams98?logo=twitter&style=for-the-badge" alt="juancams98" /></a> </p>
+<h1 align="center">Hi 🤖👋, I'm Juan Carlos Manzanares Serrano</h1>
+<h3 align="center">Student Software Robotics Engineering, Universidad Rey Juan Carlos, Spain</h3>
+
+<p align="center"> <a href="https://twitter.com/juancams98" target="blank"><img src="https://img.shields.io/twitter/follow/juancams98?logo=twitter&style=for-the-badge" alt="juancams98" /></a> </p>
  
 #### Projects
-* [Robotech association member](https://github.com/RoboTech-URJC)
+* [Robotech Association Member](https://github.com/RoboTech-URJC)
 * [Organizer 1st Edition Robotics Day](https://www.urjc.es/todas-las-noticias-de-actualidad/6686-robotics-day-un-dia-para-celebrar-el-presente-pasado-y-futuro-de-la-robotica)
 * [SciRoc 2019 with the GentleBots team](https://gsyc.urjc.es/~dvargas/gentlebots/)
+* [Robot Noah Robotech - Project Manager](https://github.com/RoboTech-URJC/noah_hardware)
+* [My first robot: The Stealer](https://github.com/Juancams/Mecatronica-Proyecto/wiki)
 
  
 #### Skills
