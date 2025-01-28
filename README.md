@@ -1,5 +1,3 @@
-<h1 align="center">Hi 🤖👋, I'm Juan Carlos Manzanares Serrano</h1>
-
-<p align="center"> <a href="https://twitter.com/Juancams98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juancams98" height="40" width="40" /></a> 
-<a href="https://linkedin.com/in/juancams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juancams" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCHaEDC482IjA6KO6RxA7qhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCHaEDC482IjA6KO6RxA7qhg" height="40" width="40" /></a> <a href="https://instagram.com/juancams98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juancams98" height="40" width="40" /></a> </p>
+<div align="center">
+  <img src="https://github.com/Juancams/Juancams/blob/main/shinchan.gif" alt="Shin Chan GIF" />
+</div>
